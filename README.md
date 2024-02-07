@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently learning Web Development<br>👨‍💻 I'm currently student of Patika+ Web Development Bootcamp.<br><br>💬 Ask me something on [Gmail](mailto:%20enishatipoglu.2001y@gmail.com) or [Linkedin](https://linkedin.com/in/enishatipoglu)   <br>
+⚡ I’m currently learning Web Development.<br>👨‍💻 I'm currently student of Patika+ Web Development Bootcamp.<br><br>💬 Ask me something on [Gmail](mailto:%20enishatipoglu.2001y@gmail.com) or [Linkedin](https://linkedin.com/in/enishatipoglu)   <br>
 
 
 ## 🌐 Socials:
